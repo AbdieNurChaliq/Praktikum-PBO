@@ -30,6 +30,7 @@ class IValidationRule(ABC):
         pass
 
 
+
 # ============================
 # RULE 1: Validasi Batas SKS
 # ============================
